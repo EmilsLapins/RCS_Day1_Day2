@@ -1,0 +1,6 @@
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\bin\Debug\LabdienProgramma.exe.config
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\bin\Debug\LabdienProgramma.exe
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\bin\Debug\LabdienProgramma.pdb
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\obj\Debug\LabdienProgramma.csproj.CoreCompileInputs.cache
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\obj\Debug\LabdienProgramma.exe
+C:\Riga Coding School\Day1\LabdienProgramma\LabdienProgramma\obj\Debug\LabdienProgramma.pdb

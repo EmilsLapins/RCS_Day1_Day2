@@ -1,0 +1,11 @@
+C:\Riga Coding School\Day1\Day1\Day1\bin\Debug\Day1.exe.config
+C:\Riga Coding School\Day1\Day1\Day1\bin\Debug\Day1.exe
+C:\Riga Coding School\Day1\Day1\Day1\bin\Debug\Day1.pdb
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.exe
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.pdb
+C:\Riga Coding School\Day1\Day1\Day1\bin\Debug\Day1.exe.manifest
+C:\Riga Coding School\Day1\Day1\Day1\bin\Debug\Day1.application
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.exe.manifest
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.application
+C:\Riga Coding School\Day1\Day1\Day1\obj\Debug\Day1.csprojAssemblyReference.cache
